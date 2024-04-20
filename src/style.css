@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background:url('/slika.jpg')  no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
